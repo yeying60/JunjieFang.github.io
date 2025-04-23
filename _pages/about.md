@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I'm currently pursuing a Ph.D. in Space Physics at [Wuhan University](https://www.whu.edu.cn/). My research interests include clouds and precipitation, microwave remote sensing, and atmospheric physics.
-I am very fortunate to be a member of the Middle and Upper Atmosphere Dynamics Laboratory, under the guidance of [Prof. Huang Kaiming](https://esst.whu.edu.cn/info/1531/1451.htm).
+I am very fortunate to be a member of the Middle and Upper Atmosphere Dynamics Laboratory, under the guidance of .
 I hold a Bachelor of Science degree in Electronic Information Science and Technology at [Wuhan University of Technology](https://www.whut.edu.cn/), which provided a solid foundation for my current research.
 
 
